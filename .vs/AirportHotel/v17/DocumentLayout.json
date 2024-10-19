@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|c:\\users\\wamiq_computers\\source\\repos\\airporthotel\\airporthotel\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\career.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\career.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\career.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\career.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\tender.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\tender.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\tender.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\tender.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\airporthotel\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8037DA1F-81B3-4DC2-B159-367CE01D8B99}|AirportHotel\\AirportHotel.csproj|solutionrelative:airporthotel\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "services.aspx",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\services.aspx",
+              "RelativeDocumentMoniker": "AirportHotel\\services.aspx",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\services.aspx",
+              "RelativeToolTip": "AirportHotel\\services.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-11T16:16:11.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "career.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\career.aspx.cs",
+              "RelativeDocumentMoniker": "AirportHotel\\career.aspx.cs",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\career.aspx.cs",
+              "RelativeToolTip": "AirportHotel\\career.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:29:38.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "AirportHotel\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\Site1.Master.cs",
+              "RelativeToolTip": "AirportHotel\\Site1.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:25:09.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "career.aspx",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\career.aspx",
+              "RelativeDocumentMoniker": "AirportHotel\\career.aspx",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\career.aspx",
+              "RelativeToolTip": "AirportHotel\\career.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T14:58:27.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tender.aspx",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\tender.aspx",
+              "RelativeDocumentMoniker": "AirportHotel\\tender.aspx",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\tender.aspx",
+              "RelativeToolTip": "AirportHotel\\tender.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-06T08:22:03.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tender.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\tender.aspx.cs",
+              "RelativeDocumentMoniker": "AirportHotel\\tender.aspx.cs",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\tender.aspx.cs",
+              "RelativeToolTip": "AirportHotel\\tender.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:22:19.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\Contact.aspx",
+              "RelativeDocumentMoniker": "AirportHotel\\Contact.aspx",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\Contact.aspx",
+              "RelativeToolTip": "AirportHotel\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T14:58:09.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\home.aspx",
+              "RelativeDocumentMoniker": "AirportHotel\\home.aspx",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\home.aspx",
+              "RelativeToolTip": "AirportHotel\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T07:47:41.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\Site1.Master",
+              "RelativeDocumentMoniker": "AirportHotel\\Site1.Master",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\Site1.Master",
+              "RelativeToolTip": "AirportHotel\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T07:46:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "about.aspx",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\about.aspx",
+              "RelativeDocumentMoniker": "AirportHotel\\about.aspx",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\about.aspx",
+              "RelativeToolTip": "AirportHotel\\about.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-08T08:50:49.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "AirportHotel\\AdminLogin.aspx",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\AdminLogin.aspx",
+              "RelativeToolTip": "AirportHotel\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-08T06:15:27.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\AdminLogin.aspx.cs",
+              "RelativeDocumentMoniker": "AirportHotel\\AdminLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\wamiq_computers\\source\\repos\\AirportHotel\\AirportHotel\\AdminLogin.aspx.cs",
+              "RelativeToolTip": "AirportHotel\\AdminLogin.aspx.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvysAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:20:15.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

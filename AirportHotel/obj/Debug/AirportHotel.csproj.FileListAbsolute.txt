@@ -1,0 +1,7 @@
+C:\Users\wamiq_computers\source\repos\AirportHotel\AirportHotel\bin\AirportHotel.dll.config
+C:\Users\wamiq_computers\source\repos\AirportHotel\AirportHotel\bin\AirportHotel.dll
+C:\Users\wamiq_computers\source\repos\AirportHotel\AirportHotel\bin\AirportHotel.pdb
+C:\Users\wamiq_computers\source\repos\AirportHotel\AirportHotel\obj\Debug\AirportHotel.csproj.AssemblyReference.cache
+C:\Users\wamiq_computers\source\repos\AirportHotel\AirportHotel\obj\Debug\AirportHotel.csproj.CoreCompileInputs.cache
+C:\Users\wamiq_computers\source\repos\AirportHotel\AirportHotel\obj\Debug\AirportHotel.dll
+C:\Users\wamiq_computers\source\repos\AirportHotel\AirportHotel\obj\Debug\AirportHotel.pdb

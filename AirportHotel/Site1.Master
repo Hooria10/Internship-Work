@@ -1,0 +1,121 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="AirportHotel.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <title>AIRPORT HOTEL</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.7.2/font/bootstrap-icons.min.css" rel="stylesheet">
+
+    <style>
+        .nav-link:hover {
+            color: olive;
+        }
+        .input-group .form-control {
+            border-right: 0;
+        }
+        .input-group .input-group-append .btn {
+            border-left: 0;
+        }
+        .mr-2 {
+            margin-right: 0.5rem;
+        }
+        .footer-bg {
+            background-color: rgb(167, 146, 65); 
+        } 
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#"><img src="./APH.png" width="125px" height="90px"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" style="font-weight: bold;" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item ">
+                            <a class="nav-link" href="home.aspx">HOME </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="about.aspx">ABOUT</a> 
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="gallery.aspx">GALLERY</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="Contact.aspx">CONTACT</a> 
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="career.aspx">CAREER</a> 
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="services.aspx">SERVICES</a> 
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="font-weight: bold;" href="#">RFQ</a> 
+                        </li>
+                        <button href="tender.aspx" class="btn btn-danger navbar-btn mr-2" style="color: rgb(1, 60, 1); background-color: olive; font-weight: bold;">TENDER</button>
+                        <button class="btn btn-danger navbar-btn mr-2" style="color: rgb(226, 229, 226); background-color: rgb(1, 49, 3); font-weight: bold;">Booking</button>    
+                    </ul>
+                    <form class="form-inline my-2 my-lg-0">
+                        <div class="input-group">
+                            <input class="form-control text-dark" type="search" placeholder="Search" aria-label="Search">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-success text-dark" type="submit">
+                                    <i class="bi bi-search"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </nav>
+        </header>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <footer class="footer-bg p-5 mt-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h4>GET IN TOUCH</h4>
+                        <p><strong>Address:</strong> Airport Hotel, Star Gate Road, Near Old Airport Road, Karachi - 75530 (Pakistan).</p>
+                        <p><strong>Email:</strong> info@localhost</p>
+                        <p><strong>Telephone:</strong></p>
+                        <p>021 34570141</p>
+                        <p>021 34603737</p>
+                    </div>
+                    <div class="col-md-4">
+                        <h4>HELPFUL LINKS</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="#">HOME</a></li>
+                            <li><a href="#">ABOUT</a></li>
+                            <li><a href="#">GALLERY</a></li>
+                            <li><a href="#">CONTACT</a></li>
+                            <li><a href="#">CAREER</a></li>
+                            <li><a href="#">SERVICES</a></li>
+                            <li><a href="#">GET A PRICES</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <h4>GET A QUOTE</h4>
+                        <button style="background-color:rgb(0, 65, 1);" class="btn btn-primary btn-block mb-3">Booking</button>
+                        <button style="background-color: rgb(0, 65, 1);" class="btn btn-primary btn-block mb-3">Tender</button>
+                        <button style="background-color: rgb(0, 65, 1);" class="btn btn-primary btn-block">RFQ</button>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </form>
+</body>
+</html>
